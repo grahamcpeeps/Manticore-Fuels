@@ -479,8 +479,8 @@ input, textarea {
     color: #01264a; }
 
 .is-scrolling .header-shrink {
-  padding-top: 10px;
-  padding-bottom: 10px; }
+  padding-top: 0px;
+  padding-bottom: 0px; }
 
 .is-scrolling .logo-default {
   opacity: 0;
