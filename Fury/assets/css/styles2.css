@@ -5,3 +5,7 @@
 .mission-text {
     text-align: center;
 }
+
+.learn-more:hover{
+  background: rgba(36,38,74);
+}
