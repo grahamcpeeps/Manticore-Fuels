@@ -4,6 +4,9 @@
     $('html, body').animate({scrollTop: $(this.hash).offset().top - 50}, 1000);
     return false;
 });
+$('#goto-top').click(function(){
+    window.scrollTo(0,0);
+});
   var fury = {
     // Inverse header background when scroll
     hederInverse: function(){
