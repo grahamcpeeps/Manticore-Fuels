@@ -1,3 +1,7 @@
-.img-center {
-    align-items: center;
+.img-center > img {
+    padding-bottom: 15px;
+}
+
+.mission-text {
+    text-align: center;
 }
