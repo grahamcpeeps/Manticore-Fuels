@@ -15,7 +15,6 @@
       $(window).on('scroll', function() {
           if ($(this).scrollTop() > 5) {
               $('body').addClass('is-scrolling');
-
           } else {
               $('body').removeClass('is-scrolling');
           }
@@ -51,9 +50,6 @@
 
 
               $('.js-hamburger').on('click', function(){
-
-                
-
                 $(this).toggleClass('is-active');
 
               });
