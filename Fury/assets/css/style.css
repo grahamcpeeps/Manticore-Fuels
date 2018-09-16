@@ -733,12 +733,12 @@ input, textarea {
       color: #fff; }
 
 .tabs-v3 .nav-link {
-  background: #ecf5fe; }
+  background: #fff; }
   @media (min-width: 600px) {
     .tabs-v3 .nav-link {
       width: 200px; } }
   .tabs-v3 .nav-link.active {
-    background: #0081FF;
+    background: #13314e;
     border-color: transparent;
     color: #fff; }
 
