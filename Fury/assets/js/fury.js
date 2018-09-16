@@ -15,6 +15,7 @@ $(window).on('scroll',function(){
       $(window).on('scroll', function() {
           if ($(this).scrollTop() > 5) {
               $('body').addClass('is-scrolling');
+              
           } else {
               $('body').removeClass('is-scrolling');
           }
@@ -50,7 +51,11 @@ $(window).on('scroll',function(){
 
 
               $('.js-hamburger').on('click', function(){
+<<<<<<< HEAD
                 $('this').toggleClass('is-active');
+=======
+                $(this).toggleClass('is-active');
+>>>>>>> 4656fe17d5620126562ee0c0a01a93009b8ec0b6
 
               });
 			},
