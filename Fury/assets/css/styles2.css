@@ -9,3 +9,7 @@
 .learn-more:hover{
   background: rgba(36,38,74);
 }
+
+.home-info{
+  border-radius: 1rem !important;
+}
