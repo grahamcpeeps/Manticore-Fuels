@@ -5,9 +5,9 @@
     return false;
 });
 
-$(window).on('scroll',function(){
-  $(".invlogo").addClass("wow animated zoomIn delay-2s")
-});
+// $(window).on('scroll',function(){
+//   $(".invlogo").addClass("wow animated zoomIn delay-2s")
+// });
 
   var fury = {
     // Inverse header background when scroll
@@ -15,6 +15,10 @@ $(window).on('scroll',function(){
       $(window).on('scroll', function() {
           if ($(this).scrollTop() > 5) {
               $('body').addClass('is-scrolling');
+<<<<<<< HEAD
+=======
+
+>>>>>>> 8a063faf3ff4eec9c7ad2a9a84ab14b076c98c2b
           } else {
               $('body').removeClass('is-scrolling');
           }
@@ -50,7 +54,14 @@ $(window).on('scroll',function(){
 
 
               $('.js-hamburger').on('click', function(){
+<<<<<<< HEAD
                 $('this').toggleClass('is-active');
+=======
+
+                
+
+                $(this).toggleClass('is-active');
+>>>>>>> 8a063faf3ff4eec9c7ad2a9a84ab14b076c98c2b
 
               });
 			},
