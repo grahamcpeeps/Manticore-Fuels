@@ -5,9 +5,9 @@
     return false;
 });
 
-$(window).on('scroll',function(){
-  $(".invlogo").addClass("wow animated zoomIn delay-2s")
-});
+// $(window).on('scroll',function(){
+//   $(".invlogo").addClass("wow animated zoomIn delay-2s")
+// });
 
   var fury = {
     // Inverse header background when scroll
@@ -15,7 +15,7 @@ $(window).on('scroll',function(){
       $(window).on('scroll', function() {
           if ($(this).scrollTop() > 5) {
               $('body').addClass('is-scrolling');
-              
+
           } else {
               $('body').removeClass('is-scrolling');
           }
