@@ -47,6 +47,8 @@ $(window).on('scroll',function(){
 			},
 
 			hamburgarToggler: function(){
+
+
               $('.js-hamburger').on('click', function(){
                 $(this).toggleClass('is-active');
               });
