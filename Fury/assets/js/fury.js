@@ -51,7 +51,11 @@
 
 
               $('.js-hamburger').on('click', function(){
+<<<<<<< HEAD
+                $('this').toggleClass('is-active');
+=======
                 $(this).toggleClass('is-active');
+>>>>>>> 4656fe17d5620126562ee0c0a01a93009b8ec0b6
 
               });
 			},
