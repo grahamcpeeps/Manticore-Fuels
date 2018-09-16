@@ -6,7 +6,7 @@
 });
 
 $(window).on('scroll',function(){
-  $(".invlogo").addClass("wow animated slideInLeft delay-5s")
+  $(".invlogo").addClass("wow animated zoomIn delay-2s")
 });
 
   var fury = {
