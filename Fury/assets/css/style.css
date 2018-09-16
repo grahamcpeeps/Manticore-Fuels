@@ -501,7 +501,7 @@ input, textarea {
 
 @media (max-width: 991px) {
   #navbarNav {
-    background: #f3f6fb;
+    background: #fff;
     max-height: 100vh;
     padding: 20px;
     overflow: auto; }
