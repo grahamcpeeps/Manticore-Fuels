@@ -5,6 +5,10 @@
     return false;
 });
 
+$(window).on('scroll',function(){
+  $(".invlogo").addClass("wow animated slideInLeft delay-5s")
+});
+
   var fury = {
     // Inverse header background when scroll
     hederInverse: function(){
