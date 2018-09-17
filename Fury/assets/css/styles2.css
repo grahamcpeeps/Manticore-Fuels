@@ -39,13 +39,6 @@
   border: none;
 }
 
-<<<<<<< HEAD
-@-webkit-keyframes keyarm {
-    0% { -webkit-transform: rotate(0deg); }
-    5% { -webkit-transform: rotate(-14deg); }
-    10% { -webkit-transform: rotate(0deg); }
-    100% { -webkit-transform: rotate(0deg); }
-=======
 
 /* Small Devices, Tablets */
 
@@ -91,5 +84,4 @@ animation: none !important;
 
 }
 
->>>>>>> 27ba1ac1171c647b04a5fc79b5500030d02900d1
 }
