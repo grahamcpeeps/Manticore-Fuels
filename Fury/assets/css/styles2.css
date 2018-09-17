@@ -21,3 +21,7 @@
 .scrollDownBtn{
   font-size: 2.5rem;
 }
+
+.scrollDownBtn:hover{
+  color: red;
+}
