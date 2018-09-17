@@ -1,8 +1,8 @@
 $(function(){
   new WOW().init();
 
-  $(".nav-link").click(function(){
-    $(".tab-pane").addClass("animated zoomIn delay-2s");
+  $(".nav-link.p-4").click(function(){
+    $(".tab-pane").addClass("animated zoomIn");
 
-  });
+
 });
