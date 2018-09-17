@@ -35,6 +35,14 @@
 
 }
 
+.nav-link:hover{
+  color: #007bff;
+}
+
 .nav-link.p-4:hover{
   border: none;
+}
+
+.is-scrolling .header-inverse .nav-link:hover{
+  color: #007bff;
 }
