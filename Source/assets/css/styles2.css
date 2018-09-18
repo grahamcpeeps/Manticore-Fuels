@@ -51,13 +51,18 @@
     font-family:"Arvo", sans-serif;
 }
 
-.careers-footer {
-    font-family:"Arvo", sans-serif;
-}
 .about-blurb {
     font-size: 18px;
 }
 
 .card-icon {
     background-color: #10304c !important;
+}
+
+.home-info:hover .card-icon{
+  background-color: #007bff !important;
+}
+
+.highlight-blue-hover:hover .card-icon{
+    background-color: #007bff !important;
 }
