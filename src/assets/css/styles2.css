@@ -1,0 +1,56 @@
+.img-center > img {
+    padding-bottom: 17.5px;
+}
+
+.mission-text {
+    text-align: center;
+}
+
+.learn-more:hover{
+  background: #0081fe;
+}
+
+.home-info{
+  border-radius: 1.25rem !important;
+}
+
+.tabs{
+  padding-top: 2rem;
+}
+
+.scrollDownBtn{
+  font-size: 2.5rem;
+}
+
+.scrollDownBtn:hover{
+  color: #007bff;
+}
+
+.contact-icon{
+  color: rgb(36,38,74);
+}
+
+.nav-link.p-4{
+  border: none;
+
+}
+
+.nav-link:hover{
+  color: #007bff;
+}
+
+.nav-link.p-4:hover{
+  border: none;
+}
+
+.is-scrolling .header-inverse .nav-link:hover{
+  color: #007bff;
+}
+
+.careers-container {
+    font-family:"Arvo", sans-serif;
+}
+
+.about-blurb {
+    font-size: 18px;
+}
