@@ -725,11 +725,11 @@ input, textarea {
     -ms-flex: 1;
     flex: 1; }
   .tabs-v2 .nav-link {
-    border-radius: 100em;
+    border-radius: 0;
     text-align: center;
     padding: 10px; }
     .tabs-v2 .nav-link.active {
-      background: #273f59;
+      background: #666666;
       color: #fff; }
 
 .tabs-v3 .nav-link {
@@ -738,7 +738,7 @@ input, textarea {
     .tabs-v3 .nav-link {
       width: 200px; } }
   .tabs-v3 .nav-link.active {
-    background: #13314e;
+    background: #666666;
     border-color: transparent;
     color: #fff; }
 
