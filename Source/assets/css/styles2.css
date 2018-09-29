@@ -66,3 +66,7 @@
 .highlight-blue-hover:hover .card-icon{
     background-color: #007bff !important;
 }
+
+.about-tabs {
+    border-radius: 0;
+}

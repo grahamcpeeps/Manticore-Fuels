@@ -725,7 +725,7 @@ input, textarea {
     -ms-flex: 1;
     flex: 1; }
   .tabs-v2 .nav-link {
-    border-radius: 100em;
+    border-radius: 0;
     text-align: center;
     padding: 10px; }
     .tabs-v2 .nav-link.active {
