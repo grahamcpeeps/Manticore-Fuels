@@ -56,19 +56,27 @@
 }
 
 .card-icon {
-    background-color: #10304c !important;
+    background-color: #222 !important;
 }
 
 .home-info:hover .card-icon{
-  background-color: #666666 !important;
+  background-color: #8e0000 !important;
   transition: 0.25s;
 }
 
 .highlight-blue-hover:hover .card-icon{
-    background-color: #666666 !important;
+    background-color: #8e0000 !important;
     transition: 0.25s;
 }
 
 .about-tabs {
     border-radius: 0;
+}
+
+.text-primary{
+  color: rgb(255,0,0) !important;
+}
+
+.tab-content p{
+  color:#fff;
 }

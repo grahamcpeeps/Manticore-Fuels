@@ -17,7 +17,7 @@ img {
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   font-family: "Arvo", sans-serif;
-  color: #273f5b;
+  color: #fff;
   line-height: 1.37em;
   font-weight: 600; }
 
@@ -478,9 +478,9 @@ input, textarea {
   color: #54667a; }
 
 .is-scrolling .header-inverse {
-  background: rgb(243,246,251); }
+  background: #222; }
   .is-scrolling .header-inverse .nav-link {
-    color: #01264a; }
+    color: #fff; }
 
 .is-scrolling .header-shrink {
   padding-top: 0px;
@@ -729,7 +729,7 @@ input, textarea {
     text-align: center;
     padding: 10px; }
     .tabs-v2 .nav-link.active {
-      background: #666666;
+      background: #8e0000;
       color: #fff; }
 
 .tabs-v3 .nav-link {
@@ -738,7 +738,7 @@ input, textarea {
     .tabs-v3 .nav-link {
       width: 200px; } }
   .tabs-v3 .nav-link.active {
-    background: #666666;
+    background: #8e0000;
     border-color: transparent;
     color: #fff; }
 
@@ -3860,7 +3860,7 @@ input, textarea {
   color: #273f5b; }
 
 .bg-primary {
-  background: #0081FF !important; }
+  background: rgb(255,0,0) !important; }
 
 .bg-dark {
   background: #20283b !important; }
@@ -3904,10 +3904,10 @@ input, textarea {
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF8B3AC6', endColorstr='#FF4D3399', GradientType=1); }
 
 .bg-gray-v1 {
-  background: #F3F6FB; }
+  background: #3d3d3d; }
 
 .bg-gray-v2 {
-  background: #ECF5FE; }
+  background: #222; }
 
 .bg-gray-v3 {
   background: #F0F3FA; }
