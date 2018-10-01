@@ -7,7 +7,7 @@
 }
 
 .learn-more:hover{
-  background: #0081fe;
+  background: rgb(255,0,0);
 }
 
 .home-info{
@@ -36,7 +36,7 @@
 }
 
 .nav-link:hover{
-  color: #B7B7B7;
+  color: rgb(255,0,0);
 }
 
 .nav-link.p-4:hover{
@@ -44,7 +44,7 @@
 }
 
 .is-scrolling .header-inverse .nav-link:hover{
-  color: #B7B7B7;
+  color: rgb(255,0,0);
 }
 
 .careers-container {
@@ -60,12 +60,12 @@
 }
 
 .home-info:hover .card-icon{
-  background-color: #8e0000 !important;
+  background-color: rgb(255,0,0) !important;
   transition: 0.25s;
 }
 
 .highlight-blue-hover:hover .card-icon{
-    background-color: #8e0000 !important;
+    background-color: #rgb(255,0,0) !important;
     transition: 0.25s;
 }
 
@@ -78,5 +78,17 @@
 }
 
 .tab-content p{
+  color:#fff;
+}
+
+.cards h4{
+  color: #222;
+}
+
+footer p{
+  color:#fff;
+}
+
+footer li{
   color:#fff;
 }

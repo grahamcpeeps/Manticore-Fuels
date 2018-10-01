@@ -729,7 +729,7 @@ input, textarea {
     text-align: center;
     padding: 10px; }
     .tabs-v2 .nav-link.active {
-      background: #8e0000;
+      background: rgb(255,0,0);
       color: #fff; }
 
 .tabs-v3 .nav-link {
