@@ -109,3 +109,19 @@ footer li {
 a:hover {
   color: rgb(255,0,0);
 }
+
+.aboutus-text {
+    background-color: #222;
+}
+
+.about-us-text {
+    color: #fff;
+}
+
+.checkmarks {
+    color: rgb(255, 0, 0);
+}
+
+.checkmark-content {
+    color: #fff;
+}
