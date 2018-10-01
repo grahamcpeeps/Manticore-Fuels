@@ -80,3 +80,16 @@
 .tab-content p{
   color:#fff;
 }
+
+.jumbotron-textbox {
+    background-color: rgba(34, 34, 34, 0.5);
+    float: right;
+    height: 60%;
+    width: 60%;
+    padding: 10px;
+
+}
+
+/* .jumbotron-textbox p {
+    opacity: 1;
+} */
