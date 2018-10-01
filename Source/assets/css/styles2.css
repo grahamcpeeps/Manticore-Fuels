@@ -86,7 +86,7 @@
 
 }
 
-.cards p{
+.cards p {
   color: #222;
 }
 
@@ -94,10 +94,14 @@
   color: #222;
 }
 
-footer p{
+footer p {
   color: #fff;
 }
 
-footer li{
+footer li {
   color: #fff;
+}
+
+.manticore-cw {
+    background-color: #222;
 }
