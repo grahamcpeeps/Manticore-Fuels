@@ -105,3 +105,7 @@ footer li {
 .manticore-cw {
     background-color: #222;
 }
+
+a:hover {
+  color: rgb(255,0,0);
+}
