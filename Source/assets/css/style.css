@@ -114,7 +114,14 @@ input, textarea {
   .display-3 {
     font-size: 3rem; }
   .display-4 {
-    font-size: 2.5rem; } }
+    font-size: 2.5rem; }
+
+  .home-logo{
+    display: none;
+  }
+
+
+   }
 
 .show-onHover {
   opacity: 0;
@@ -3680,7 +3687,7 @@ input, textarea {
   background: rgba(44, 212, 74, 0.75) !important; }
 
 .bg-red {
-  background: #F64D62 !important; }
+  background: rgb(255,0,0) !important; }
   .bg-red-opacity-0_1 {
     background: rgba(246, 77, 98, 0.1); }
   .bg-red-opacity-0_2 {

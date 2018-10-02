@@ -7,7 +7,7 @@ $(function(){
   });
 
   $(".wow.safety-section").each(function() {
-  var wowHeight = $(this).height();
+  var wowHeight = $(this).height() - 10;
   $(this).attr("data-wow-offset", wowHeight);
 });
 

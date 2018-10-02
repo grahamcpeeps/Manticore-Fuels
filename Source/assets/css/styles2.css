@@ -141,3 +141,7 @@ a:hover {
 .home-header {
     padding-top: 40px;
 }
+
+@media (max-width: 767px) {
+
+}
