@@ -149,5 +149,8 @@ a:hover {
     .header-padding {
         margin: 0 auto;
     }
+    .email-text {
+        font-size: 12px;
+    }
 
 }
