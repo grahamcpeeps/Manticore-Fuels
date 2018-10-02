@@ -143,5 +143,8 @@ a:hover {
 }
 
 @media (max-width: 767px) {
+    .about-box {
+        margin-top: 50px;
+    }
 
 }
