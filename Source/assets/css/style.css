@@ -249,7 +249,7 @@ input, textarea {
   transition-timing-function: ease; }
 
 .is-scrolling .hamburger-inner, .is-scrolling .hamburger-inner::before, .is-scrolling .hamburger-inner::after {
-  background-color: #54667a; }
+  background-color: rgb(255,0,0); }
 
 .hamburger-inner::before, .hamburger-inner::after {
   content: "";
