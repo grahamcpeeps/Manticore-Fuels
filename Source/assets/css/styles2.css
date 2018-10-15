@@ -177,3 +177,9 @@ a:hover {
     }
 
 }
+
+@media (min-width: 767px) {
+  .lgo-mobile{
+    display:none;
+  }
+}
