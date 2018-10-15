@@ -150,6 +150,11 @@ a:hover {
     padding-left: 32px;
 }
 
+.contact-container {
+    text-align: right;
+    color: white;
+}
+
 @media (max-width: 767px) {
     .padding-box {
         margin-top: 80px;
