@@ -172,4 +172,8 @@ a:hover {
         align-items: center;
     }
 
+    .lgo{
+      display: none;
+    }
+
 }
