@@ -142,6 +142,14 @@ a:hover {
     padding-top: 40px;
 }
 
+.nav-tab {
+    padding-top: 32px;
+}
+
+.navbar-logo {
+    padding-left: 32px;
+}
+
 @media (max-width: 767px) {
     .padding-box {
         margin-top: 80px;
@@ -151,6 +159,12 @@ a:hover {
     }
     .email-text {
         font-size: 12px;
+    }
+    .service-tabs {
+        font-size: 0.8rem;
+    }
+    .services-tabs {
+        align-items: center;
     }
 
 }
