@@ -196,4 +196,8 @@ a:hover {
   .lgo-mobile{
     display:none;
   }
+
+  .mb-line{
+    border: none;
+  }
 }

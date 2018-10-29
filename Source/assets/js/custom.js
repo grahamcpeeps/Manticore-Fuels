@@ -3,7 +3,7 @@ $(function(){
 
   $(".nav-link.p-4").on("click",function(){
     $(".tab-pane").addClass("animated zoomIn");
-
+  
   });
 
   $(".wow.safety-section").each(function() {
